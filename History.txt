@@ -1,3 +1,10 @@
+=== 1.4.001 / 2013-11-14
+
+ * 1 minor bugfix:
+   * Remove .gemtest mention in gemfile to avoid warning on bundler installation
+ * 1 minor feature:
+   * Add a constant to easally change Newrelic stat namespace (default is 'Memtest' to appear on main application graph)
+
 === 1.4.0 / 2012-10-31
 
 HAPPY HALLOWEEN!
